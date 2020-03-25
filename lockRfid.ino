@@ -8,6 +8,8 @@
  *    (ii) Delete-> If the card does exists in the index already, it is deleted and unauthorized for future scans
  *    
  * NOTE- The master card cannot be deleted without using the RST pin on the board.
+ * 
+ * GitHub link - https://github.com/samakshsethi/rfid-lock
  */
  
 #include <SPI.h>      //Required for serial communication with MFRC522
