@@ -3,6 +3,7 @@
 Lock system using RFID
 
 At least 2 cards are required for this system, 1st will be the master card which will authorize and unauthorize all other cards.
+The servo motors unlock when an authorized card is scanned and lock autoamtically after 3 seconds
 
 
 Execution procedure:
